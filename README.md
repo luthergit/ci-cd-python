@@ -1,5 +1,5 @@
 # General Project Structure
-
+```text
 mlops_project_name/
 ├── src/
 │   ├── model.py              # Model definition and training logic
